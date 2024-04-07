@@ -1,0 +1,11 @@
+#2941 크로아티아 알파벳
+T = input()
+print(T)
+print(T.count("s="))
+print(T.count("c="))
+print(T.count("c-"))
+print(T.count("dz="))
+print(T.count("d-"))
+print(T.count("lj"))
+print(T.count("nj"))
+print(T.count("z="))
